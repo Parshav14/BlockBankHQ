@@ -9,5 +9,4 @@ contract myBank {
     }
     mapping(address => uint256) public BlockBankHQ;
 
-    
 }
