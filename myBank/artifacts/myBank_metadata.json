@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"name": "BlockBankHQ",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"myBank/BBHQ.sol": "myBank"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"myBank/BBHQ.sol": {
+			"keccak256": "0x8dc48a8acb876b7698ceb9035d318a6fe38fd9f06230225ca9c393fa8773fed3",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3bfb1ef7a57a37c7f1721674a2911ae34ab1b2a46c3432a5cb947c09d0efcae5",
+				"dweb:/ipfs/Qmc831any9WQUy9XpbS5z9T16S9W3EeKRCDKDkfofvHF3f"
+			]
+		}
+	},
+	"version": 1
+}
