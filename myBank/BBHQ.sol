@@ -8,5 +8,6 @@ contract myBank {
         uint256 accountCreationTime;
     }
     mapping(address => uint256) public BlockBankHQ;
+    
 
 }
